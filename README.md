@@ -15,7 +15,7 @@ const rPire = {
   pronouns: ["he", "his"],
   code: [JavaScript, React, Redux, Ruby, Ruby on Rails, HTML/CSS, Bootstrap],
   askMeAbout: [Music, Movies, Food],
-  challenge: "I'm currently cursing the Microverse Program",
+  challenge: "I'm currently doing the best I can in the Microverse Program",
   funFacts: ['I speak Spanish and Japanese apart from English']
 }
 ```
