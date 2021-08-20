@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Rubén Pire, I'm a venezuelan electrical engineer. I'm currently studying at Microverse to become a full-stack developer.
+My name is Rubén Pire, a Venezuelan electrical engineer. I'm currently studying at Microverse to become a full-stack developer.
 
 ### I'm currently learning 🤓
 
@@ -16,6 +16,6 @@ const rPire = {
   code: [JavaScript, React, Redux, Ruby, Ruby on Rails, HTML/CSS, Bootstrap],
   askMeAbout: [Music, Movies, Food],
   challenge: "I'm currently cursing the Microverse Program",
-  funFacts: ['I speak Spanish and Japanese apart from english']
+  funFacts: ['I speak Spanish and Japanese apart from English']
 }
 ```
